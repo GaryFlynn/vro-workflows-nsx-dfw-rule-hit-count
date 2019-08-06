@@ -12,4 +12,4 @@ Full details of the workflows can be found at [gazflynn.com](https://gazflynn.co
 ***Updated 2nd August, 2019***
 - Retrieve all layer 3 sections
 - Retrieve each rule from each section and add to Array
-- Retrieve the hit count for the array of rule IDs.
+- Retrieve the hit count for the array of rule IDs
