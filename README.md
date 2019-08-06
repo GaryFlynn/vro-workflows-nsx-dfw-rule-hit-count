@@ -6,6 +6,7 @@ Full details of the workflows can be found at [gazflynn.com](https://gazflynn.co
 
 ***Updated 6th August, 2019***
 - Update the workflow logic to retrieve each rule hit count once the rule ID is found
+- Remove unnecessary attributes
 
 ***Updated 2nd August, 2019***
 - Retrieve all layer 3 sections
