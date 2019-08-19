@@ -4,6 +4,12 @@ Export the NSX DFW Rule Hit Counts for all layer 3 DFW firewall rules to a CSV a
 
 Full details of the workflows can be found at [gazflynn.com](https://gazflynn.com/technology/vmware/extracting-nsx-dfw-rule-hit-counts/).
 
+### Sample Output
+
+![Image of Sample Report](https://github.com/GaryFlynn/vro-workflows-nsx-dfw-rule-hit-count/raw/master/nsx-rule-hit-count-report-output.PNG)
+
+### Change Log
+
 ***Updated 19th August, 2019***
 - Added the below fields to the CSV output. Logged is an optional field where the requester is prompted to include this field or not.
   - Disabled (TRUE / FALSE)
