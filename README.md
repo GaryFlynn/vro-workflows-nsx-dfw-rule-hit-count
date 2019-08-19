@@ -5,13 +5,13 @@ Export the NSX DFW Rule Hit Counts for all layer 3 DFW firewall rules to a CSV a
 Full details of the workflows can be found at [gazflynn.com](https://gazflynn.com/technology/vmware/extracting-nsx-dfw-rule-hit-counts/).
 
 ***Updated 19th August, 2019***
-- Add additional below fields to the CSV report
-  - Is Disabled
-  - Action
-  - Is Logged
-  - Sources
-  - Destinations
-  - Services
+- Added the below fields to the CSV output. Logged is an optional field where the requester is prompted to include this field or not.
+  - Disabled (TRUE / FALSE)
+  - Action (allow / deny)
+  - Logged (TRUE / FALSE)
+  - Sources (any or array of sources)
+  - Destinations (any or array of destinations)
+  - Services (any or array of services, along with the protocol)
 
 ***Updated 6th August, 2019***
 - Update the workflow logic to retrieve each rule hit count once the rule ID is found
