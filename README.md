@@ -6,6 +6,9 @@ Full details of the workflows can be found at [gazflynn.com](https://gazflynn.co
 
 ### Change Log
 
+***Updated 10th October, 2019***
+- Functionality moved to vRO Package "<a href="https://github.com/GaryFlynn/vro-workflows-nsx-dfw-export" target="_blank">vRO Workflow - NSX DFW Rule Export</a>"
+
 ***Updated 19th August, 2019***
 - Added the below fields to the CSV output. Logged is an optional field where the requester is prompted to include this field or not.
   - Disabled (TRUE / FALSE)
